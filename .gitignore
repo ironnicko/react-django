@@ -9,6 +9,8 @@ __pycache__/
 #VSC
 .vscode/
 
+migrations/
+
 # Distribution / packaging
 .Python
 build/
